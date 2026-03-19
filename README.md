@@ -1,4 +1,4 @@
-# Spotify Data Analytics & Song Recommendation Engine
+# 📀Spotify Data Analytics & Song Recommendation Engine
 
 A full-stack data science application built with Streamlit that combines exploratory data analysis, unsupervised machine learning and content-based recommendations — all in a single interactive dashboard.
 
