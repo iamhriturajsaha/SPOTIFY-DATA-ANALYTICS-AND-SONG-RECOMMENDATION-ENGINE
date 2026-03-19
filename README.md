@@ -58,7 +58,7 @@ Three public Spotify datasets are combined -
 ## Machine Learning Pipeline
 
 ### 1. Preprocessing
-- Multiple datasets merged with `pandas.concat()`.
+- Multiple datasets merged with `pandas.concat().`
 - Column names standardized; duplicates removed.
 - Missing values filled using column medians.
 
