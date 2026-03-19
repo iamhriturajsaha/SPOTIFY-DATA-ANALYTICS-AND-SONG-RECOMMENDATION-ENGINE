@@ -2,6 +2,16 @@
 
 A full-stack data science application built with Streamlit that combines exploratory data analysis, unsupervised machine learning and content-based recommendations — all in a single interactive dashboard.
 
+## Quick Glance
+
+<p align="center">
+  <img src="Streamlit Images/1.png" alt="1" width="1000"/><br>
+  <img src="Streamlit Images/2.png" alt="2" width="1000"/><br>
+  <img src="Streamlit Images/3.png" alt="3" width="1000"/><br>
+  <img src="Streamlit Images/4.png" alt="4" width="1000"/><br>
+  <img src="Streamlit Images/5.png" alt="5" width="1000"/><br>
+</p>
+
 ## Features
 
 **Data Exploration -** Visualize and explore Spotify audio features (energy, valence, danceability, acousticness) through interactive Plotly charts.
