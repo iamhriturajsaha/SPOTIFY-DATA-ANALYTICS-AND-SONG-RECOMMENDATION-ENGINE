@@ -91,6 +91,7 @@ ngrok.set_auth_token("YOUR_TOKEN")
 public_url = ngrok.connect(8501)
 print(public_url)
 ```
+
 ## Known Issues & Fixes
 
 | Issue | Fix |
